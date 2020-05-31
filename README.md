@@ -147,10 +147,10 @@ Cada semana se deberán subir los avances de los videos según se especifique en
   * Revisión de avances
   
   * ### Videos
-    * **10. Relaciones en la BDD** https://www.loom.com/share/787163385bb24599830c3b33a5bbb456)
+    * **10. Relaciones en la BDD** https://www.loom.com/share/787163385bb24599830c3b33a5bbb456
     * **11. Relaciones en Eloquent - Uno a muchos** https://www.loom.com/share/999787956b6a47f9aed603d15d308884
     * **12. Relaciones - usuario actual, seeder con relaciones, Tinker** https://www.loom.com/share/e9e9aa429f20427e9d669c83ef09e33b
-    * **13. Relaciones - Muchos a Muchos** https://www.loom.com/share/e28bb083c22f49fa8bc415dac4a60b36)
+    * **13. Relaciones - Muchos a Muchos** https://www.loom.com/share/e28bb083c22f49fa8bc415dac4a60b36
 
 
 ### Clase 10 - Autenticación de usuarios (2020-07-01)
