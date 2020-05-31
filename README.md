@@ -44,7 +44,7 @@ Cada semana se deberán subir los avances de los videos según se especifique en
 ## CALENDARIO DE CLASES
 
 ### Clase 1 - Presentación (2020-06-02)
-  * [Encuesta de inicio de curso](https://forms.office.com/Pages/ResponsePage.aspx?id=ak4qaH-nWEmjrJ4mbRiqN173BU_p6khOitbGQ_4-nytUMllIWlUxVEVSMTYwSk1CNTA3TUxLMU1XUS4u)
+  * [Encuesta de inicio de curso](https://forms.office.com/Pages/ResponsePage.aspx?id=ak4qaH-nWEmjrJ4mbRiqN173BU_p6khOitbGQ_4-nytUM0Y3SjRRQlU3T1RYV0xaQzdGTkJYUVpOTS4u)
   * Verificar instalaciones de XAMPP, PHPStorm.
   * [Unirse a la clase en GitHub](https://classroom.github.com/classrooms/66090570-ambientes-no-propietarios-2020a)
   * [Videos de LARAVEL API REST](https://loom.com/share/folder/1941937cf66e4961a4770971e0219ecf)
