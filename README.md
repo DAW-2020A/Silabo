@@ -63,8 +63,8 @@ Cada semana se deberán subir los avances de los videos según se especifique en
       
   * ### Videos
     * **Crear cuenta en Loom. Los videos deben verlos siempre autenticados en Loom para que Loom me verifique quienes han visto los videos.**
-    * [1. Introducción](https://www.loom.com/share/1fbae31dc0ee4de0b2e4fa9486c16e01)
-    * **2. Instalación de Laravel** https://www.loom.com/share/82cc140b22354b2299a5342f5b0a5e7a)
+    * **1. Introducción** https://www.loom.com/share/1fbae31dc0ee4de0b2e4fa9486c16e01
+    * **2. Instalación de Laravel** https://www.loom.com/share/82cc140b22354b2299a5342f5b0a5e7a
  
   * ### Lecturas
     * [Ramas en Git](https://nvie.com/posts/a-successful-git-branching-model/)
