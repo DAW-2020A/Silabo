@@ -49,6 +49,7 @@ Cada semana se deberán subir los avances de los videos según se especifique en
   * [Crear repositorios individuales para entrega de deberes](https://classroom.github.com/a/KXwj-Vo_)
   * [Videos de LARAVEL API REST](https://loom.com/share/folder/1941937cf66e4961a4770971e0219ecf)
   * [Documento guía de LARAVEL API REST](https://epnecuador-my.sharepoint.com/:b:/g/personal/edwin_salvador_epn_edu_ec/EQxcHr7IQAxLjUWsv01xKZUBWgR6fkgy5p9Q-LpCkYcx3w?e=dEXWLN)
+  * [Grabaciones clases](https://epnecuador-my.sharepoint.com/:f:/g/personal/edwin_salvador_epn_edu_ec/Eq9EgfT8hoZDrMx4HEqpU64BRp0uIoGTbUvtx47pmB1hsw?e=u2z7fP)
   * Ideas para implementación de proyecto de curso
   * Formación de grupos
   
