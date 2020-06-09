@@ -83,7 +83,7 @@ Cada semana se deberán subir los avances de los videos según se especifique en
   * ¿Qué es una API?
   * ¿Qué es REST?
   * ¿Qué es API RESTful?
-  * Decisión de proyectos grupales
+  * Decisión de proyectos grupales. [Ideas de proyectos](https://epnecuador-my.sharepoint.com/:x:/g/personal/edwin_salvador_epn_edu_ec/EZwZ-GV2UK1FoJZO0xqjrM4BJnasOcMg0Qwm1SJJHflE1A?e=mg8He0)
   * [Crear repositorios grupales](https://classroom.github.com/g/ZfYRtXEh)
   * Diseñar modelos de bases de datos
   
