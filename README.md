@@ -112,6 +112,10 @@ Cada semana se deberán subir los avances de los videos según se especifique en
   
   * ### Deber
     * Completar el Backlog de los proyectos en tablero de ZenHub
+    
+  * ### Lecturas
+    * [Git Explained](https://dev.to/milu_franz/git-explained-the-basics-igc)
+    * [The Differences Between a Junior, Mid-Level, and Senior Developer](https://medium.com/better-programming/the-differences-between-a-junior-mid-level-and-senior-developer-bb2cb2eb000d)
 
 
 ### Clase 6 - Modelos y migraciones (2020-06-17)
@@ -135,6 +139,7 @@ Cada semana se deberán subir los avances de los videos según se especifique en
   
   * ### Lecturas
     * [JSON Web Tokens](https://jwt.io/introduction/)
+    * [UI Kits for any day use](https://dev.to/tngeene/ui-kits-for-any-day-use-215e?fbclid=IwAR3qu0UPTxJJ8brHw-b5pPUg8zSKcXP4OcO6WyMkxt-sXa3A6HPHe7EV3z0)
     
   
 ### Clase 8 - Seeding de la BDD, Rutas y Controladore (2020-06-24)  
@@ -190,6 +195,10 @@ Cada semana se deberán subir los avances de los videos según se especifique en
 ### Clase 14 - Validación de datos en el servidor (2020-07-15)   
   * Trabajo en avances de videos
   * Trabajo en avances de proyectos grupales
+  
+  * ### Lecturas
+    * [Galería con estilos de diseño de páginas web](https://designsystemsrepo.com/design-systems/)
+
 
     
 ### Clase 15 - Autorización, Roles y Permisos (2020-07-21)
@@ -211,6 +220,13 @@ Cada semana se deberán subir los avances de los videos según se especifique en
 
 ### Clase 17 - Envío de correos y Pruebas unitarias (2020-07-28)
 
+  * ### Lecturas
+    * [Conceptos básicos de JS (Asignación de variables y mutación primitivos/objetos)](https://dev.to/nas5w/foundational-javascript-concepts-variable-assignment-and-primitive-object-mutability-237d?fbclid=IwAR2Txo23mlz9yRVoWU5ragSsZ-GRFuNChmUeIegoBjCV5iQe_9WDFOpOFdY)
+    * [Conceptos JS para entender React](https://codequs.com/p/r1U2DMtHL/10-javascript-es6-concepts-you-need-to-master-react/?fbclid=IwAR2NCXvI3_73VLyoDzOt_zL27q32t9sDd2IFjUKacdNjQ69EXKs1naTRp4M)
+    * [Regular vs Arrow functions](https://morioh.com/p/761768c97ae4?fbclid=IwAR0qF6i1C-ILs2MBDqgp7-hlOZwC1OULiBbLm9VB8lUIA16y9xGK5uxFEco)
+    * [Maneras de iterar un arreglo en JS](https://dev.to/misterkevin_js/11-ways-to-iterate-an-array-javascript-3mjg?fbclid=IwAR19YbdOMvk3WHlThK2bgx4FbVzGx9gpIwSpe4fWsHfi8mif10RWDjIzuWQ)
+
+
 
 ### Clase 18 - Envío de correos y Pruebas unitarias (2020-07-29)
   * Trabajo en avances de videos
@@ -218,6 +234,16 @@ Cada semana se deberán subir los avances de los videos según se especifique en
 
 
 ### Clase 19 - Introducción a ReactJS (2020-08-04)
+   * [Repaso de JS](https://epnecuador-my.sharepoint.com/:b:/g/personal/edwin_salvador_epn_edu_ec/EaxCKtCJ36ZEoJwmO-wxvzkB6xqOk8Ax5CpFnyXoTkN4MQ?e=3y7kdT)
+   * [Imágenes](https://unsplash.com/)
+   * [Cover Videos](https://coverr.co/)
+   * ### Lecturas
+    * [React Virtual DOM](https://medium.com/@tonynguyenit18/how-react-virtual-dom-decide-to-update-browser-dom-91f170718733)
+    * [¿Qué es el package.json](https://dev.to/easybuoy/understanding-the-package-json-file-3fdg?fbclid=IwAR1C6nHctdEYpKRD9hsklHSQU-Sqk0oFKR-KNMhJ3KTnyuipjHWYtvn3N3Q)
+    * [Local, Session storage, Cookies](https://morioh.com/p/73377031920f?fbclid=IwAR2AUfmTED7iRa5dciGvpFyazMSCKQKvbu8SB2t2GM6lFzPtBXAj0Pb1SXs)
+    
+
+
 
 
 ### Clase 20 - ReactJS (2020-08-05)
@@ -230,7 +256,9 @@ Cada semana se deberán subir los avances de los videos según se especifique en
 
 
 ### Clase 23 - Consumir datos de la API (2020-08-18)
-
+  * ### Lecturas
+    * [FakeMyAPI](https://fakemyapi.com/)
+    
 
 ### Clase 24 - Consumir datos de la API (2020-08-19)
 
