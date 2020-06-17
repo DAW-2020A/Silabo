@@ -111,7 +111,8 @@ Cada semana se deberán subir los avances de los videos según se especifique en
     * [8. Controladores y Cors](https://www.loom.com/share/dec50c9dfdf44dceba7e9c8c13a2c6dd)
   
   * ### Deber
-    * Completar el Backlog de los proyectos en tablero de ZenHub
+    * Mejorar los modelos de BDD
+    * Empezar a trabajar en los mockups (marvelapp.com, ninjamock, etc)
     
   * ### Lecturas
     * [Git Explained](https://dev.to/milu_franz/git-explained-the-basics-igc)
@@ -135,6 +136,7 @@ Cada semana se deberán subir los avances de los videos según se especifique en
     * [9. Autenticación de usuarios con JWT](https://www.loom.com/share/a90ed7d5bd864846b06c09ac1cb646ae)
  
   * ### Deber
+    * Completar el Backlog de los proyectos en tablero de ZenHub
     * Comenzar con el desarrollo de los proyectos de acuerdo a los sprints
   
   * ### Lecturas
