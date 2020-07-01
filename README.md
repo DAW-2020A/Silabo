@@ -171,6 +171,7 @@ Cada semana se deberán subir los avances de los videos según se especifique en
       * [Diseños de páginas (ver en la opción others)](https://delesign.com/free-designs/website)
       * [Diseños de páginas](https://landingfolio.com/)
       * [Diseños para secciones del sitio](https://froala.com/design-blocks)
+      * [Diseños de páginas](https://dev.to/tngeene/ui-kits-for-any-day-use-215e?fbclid=IwAR3qu0UPTxJJ8brHw-b5pPUg8zSKcXP4OcO6WyMkxt-sXa3A6HPHe7EV3z0)
     
     * Colores, patrones y gradientes
       * [Patrones de diseño](https://products.ls.graphics/paaatterns)
