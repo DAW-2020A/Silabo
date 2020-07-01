@@ -166,12 +166,51 @@ Cada semana se deberán subir los avances de los videos según se especifique en
 ### Clase 10 - Autenticación de usuarios (2020-07-01)
   * Trabajo en avances de videos
   * Trabajo en avances de proyectos grupales
+  * Material de diseño
+    * Diseños
+      * [Diseños de páginas (ver en la opción others)](https://delesign.com/free-designs/website)
+      * [Diseños de páginas](https://landingfolio.com/)
+      * [Diseños para secciones del sitio](https://froala.com/design-blocks)
+    
+    * Colores, patrones y gradientes
+      * [Patrones de diseño](https://products.ls.graphics/paaatterns)
+      * [Patrones para fondos](http://www.heropatterns.com/)
+      * [Generador de paleta de colores](https://coolors.co/generate)
+      * [Oscurecer y aclarar colores](https://www.0to255.com/8f387f)
+      * [Generador de gradientes](https://uigradients.com/#ElectricViolet)
+      * [Paletas de colores populares](https://colorhunt.co/)
+      * [Generación de temas para páginas web](https://components.ai/theme-ui)
+
+    * Ilustraciones e íconos
+      * [Ilustraciones](https://lukaszadam.com/illustrations)
+      * [Ilustraciones](https://delesign.com/free-designs/graphics)
+      * [Ilustraciones](https://undraw.co/illustrations)
+      * [Ilustraciones](https://generator.opendoodles.com/)
+      * [Íconos SVG](https://iconsvg.xyz/)
+      * [Íconos](https://thenounproject.com/)
+      * [Íconos animados](https://lordicon.com/icons)
+      * [Micro interacciones](https://webkul.github.io/micron/)
+
+    * Imágenes
+      * [Breakpoints para imágenes](https://responsivebreakpoints.com/)
+      * [Generador de ondas SVG](https://smooth.ie/blogs/news/svg-wavey-transitions-between-sections)
+      * [Generador de ondas SVG](https://www.getwaves.io/)
+
+    * Animaciones
+      * [Generador de animaciones CSS](https://animista.ne)
+      * [Animaciones CSS](https://freefrontend.com/css-animation-examples/)
+      * [Spinners CSS](https://freefrontend.com/css-spinners/)
+      * [Animaciones scroll](https://michalsnik.github.io/aos/)
+      * [Fondos interactivos](http://kamranahmed.info/brusher/)
+    
+    * Miscelanea
+      * [Páginas 404](https://freefrontend.com/html-css-404-page-templates/)
+      * [Generador de políticas de privacidad](https://getterms.io/)
   
 
 ### Clase 11 - Relaciones de BDD (2020-07-07)
   * ¿Dudas sobre las relaciones en la BDD?
   * Revisión de avances
-  
   * **PRUEBA**
   
   * ### Videos
