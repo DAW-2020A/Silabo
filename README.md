@@ -223,6 +223,9 @@ Cada semana se deberán subir los avances de los videos según se especifique en
 ### Clase 12 - Relaciones de BDD (2020-07-08)
   * Trabajo en avances de videos
   * Trabajo en avances de proyectos grupales
+  
+  * ### Lecturas
+    * [¿Qué pasa cuando ingresamos una URL en el navegador?](https://dev.to/educative/behind-the-screens-what-happens-when-you-type-a-url-in-a-browser-161d?fbclid=IwAR1uFyksIjCJ_pqCj-x6j69lxyLqIRZn1movLA6eTGPj3fQkvsRqPj7yS8w)
 
     
 ### Clase 13 - Validación de datos en el servidor (2020-07-14)
@@ -254,6 +257,8 @@ Cada semana se deberán subir los avances de los videos según se especifique en
     * **20. Envío de correos**
     * **21. Pruebas unitarias**
     
+  * Lecturas
+    * [JS Promises](https://dev.to/hem/gif-cheatsheet-for-javascript-promise-api-methods-promise-all-promise-allsettled-promise-race-promise-any-1l2o?fbclid=IwAR0iVPbpx8jCAqojCuIqZYX-x1ua3lNz-ZINgIyQ1PQX2VvMmREZ-SCQ_l8)
     
 ### Clase 16 - Autorización, Roles y Permisos (2020-07-22)
   * Trabajo en avances de videos
@@ -277,9 +282,9 @@ Cada semana se deberán subir los avances de los videos según se especifique en
 
 ### Clase 19 - Introducción a ReactJS (2020-08-04)
    * [Repaso de JS](https://epnecuador-my.sharepoint.com/:b:/g/personal/edwin_salvador_epn_edu_ec/EaxCKtCJ36ZEoJwmO-wxvzkB6xqOk8Ax5CpFnyXoTkN4MQ?e=3y7kdT)
-   * [Imágenes](https://unsplash.com/)
-   * [Cover Videos](https://coverr.co/)
    * ### Lecturas
+    * [Learn React in 2020](https://dev.to/codeartistryio/want-to-learn-react-in-2020-here-s-the-blueprint-to-follow-2jdd)
+    * [React Cheatsheet](https://dev.to/codeartistryio/the-react-cheatsheet-for-2020-real-world-examples-4hgg)
     * [React Virtual DOM](https://medium.com/@tonynguyenit18/how-react-virtual-dom-decide-to-update-browser-dom-91f170718733)
     * [¿Qué es el package.json](https://dev.to/easybuoy/understanding-the-package-json-file-3fdg?fbclid=IwAR1C6nHctdEYpKRD9hsklHSQU-Sqk0oFKR-KNMhJ3KTnyuipjHWYtvn3N3Q)
     * [Local, Session storage, Cookies](https://morioh.com/p/73377031920f?fbclid=IwAR2AUfmTED7iRa5dciGvpFyazMSCKQKvbu8SB2t2GM6lFzPtBXAj0Pb1SXs)
