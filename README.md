@@ -210,9 +210,7 @@ Cada semana se deberán subir los avances de los videos según se especifique en
   
 
 ### Clase 11 - Relaciones de BDD (2020-07-07)
-  * ¿Dudas sobre las relaciones en la BDD?
-  * Revisión de avances
-  * **PRUEBA**
+  * **PRUEBA:** [Crear repositorios](https://classroom.github.com/a/Wpl-ktYl)
   
   * ### Videos
     * [14. Recursos API](https://www.loom.com/share/1813c69d34f44ca680e86e07db38e402)
@@ -221,7 +219,8 @@ Cada semana se deberán subir los avances de los videos según se especifique en
     
 
 ### Clase 12 - Relaciones de BDD (2020-07-08)
-  * Trabajo en avances de videos
+  * ¿Dudas sobre las relaciones en la BDD?
+  * Revisión de avances
   * Trabajo en avances de proyectos grupales
   
   * ### Lecturas
