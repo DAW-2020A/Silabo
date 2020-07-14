@@ -248,9 +248,7 @@ Cada semana se deberán subir los avances de los videos según se especifique en
 ### Clase 15 - Autorización, Roles y Permisos (2020-07-21)
   * ¿Dudas sobre Autorización, Roles y Permisos?
   * Revisión de avances
-  
-  * **EXAMEN**
-  
+    
   * ### Videos
     * **19. Relaciones polimórficas**
     * **20. Envío de correos**
@@ -266,6 +264,8 @@ Cada semana se deberán subir los avances de los videos según se especifique en
 
 ### Clase 17 - Envío de correos y Pruebas unitarias (2020-07-28)
 
+  * **EXAMEN**
+
   * ### Lecturas
     * [Conceptos básicos de JS (Asignación de variables y mutación primitivos/objetos)](https://dev.to/nas5w/foundational-javascript-concepts-variable-assignment-and-primitive-object-mutability-237d?fbclid=IwAR2Txo23mlz9yRVoWU5ragSsZ-GRFuNChmUeIegoBjCV5iQe_9WDFOpOFdY)
     * [Conceptos JS para entender React](https://codequs.com/p/r1U2DMtHL/10-javascript-es6-concepts-you-need-to-master-react/?fbclid=IwAR2NCXvI3_73VLyoDzOt_zL27q32t9sDd2IFjUKacdNjQ69EXKs1naTRp4M)
@@ -275,6 +275,7 @@ Cada semana se deberán subir los avances de los videos según se especifique en
 
 
 ### Clase 18 - Envío de correos y Pruebas unitarias (2020-07-29)
+  * ### **Presentación de proyecto primer bimestre**
   * Trabajo en avances de videos
   * Trabajo en avances de proyectos grupales
 
