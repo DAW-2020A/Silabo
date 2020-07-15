@@ -231,6 +231,8 @@ Cada semana se deberán subir los avances de los videos según se especifique en
   * ¿Dudas sobre la validación de datos en el servidor?
   * Revisión de avances
   
+  * [Solucion de la prueba](https://github.com/DAW-2020A/prueba1-bimestre1-solucion)
+  
   * ### Videos
     * [17. Subir y descargar imágenes](https://www.loom.com/share/f0f39ca5253a4fb1aa8103fa1bc56f46)
     * [18. Autorización - Roles y Permisos](https://www.loom.com/share/b07b9f42a6be47dc938da8ae6cdca1ae)
