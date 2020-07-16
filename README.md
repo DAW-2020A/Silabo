@@ -242,6 +242,8 @@ Cada semana se deberán subir los avances de los videos según se especifique en
   * Trabajo en avances de videos
   * Trabajo en avances de proyectos grupales
   
+  * ### [Crear repositorios grupales para frontend](https://classroom.github.com/a/tRaOiX-2)
+  
   * ### Lecturas
     * [Galería con estilos de diseño de páginas web](https://designsystemsrepo.com/design-systems/)
 
