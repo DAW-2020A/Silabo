@@ -282,7 +282,7 @@ Cada semana se deberán subir los avances de los videos según se especifique en
 ### Clase 18 - Envío de correos y Pruebas unitarias (2020-07-29)
   * ### **Presentación de proyecto primer bimestre**
     * Acuerdo de TrialQ: Hasta Recursos API y 1 punto extra al examen si presentan hasta validación de datos funcionando perfecto.
-    * Acuerdo de sistema de busses: Hasta Relaciones y 1 punto extra al examen si presentan hasta Recursos API funcionando perfecto.      
+    * Acuerdo de sistema de busses: Hasta JWT y 1 punto extra al examen si presentan hasta Relaciones funcionando perfecto.      
   * Trabajo en avances de videos
   * Trabajo en avances de proyectos grupales
 
