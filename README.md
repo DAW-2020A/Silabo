@@ -254,9 +254,10 @@ Cada semana se deberán subir los avances de los videos según se especifique en
   * Revisión de avances
     
   * ### Videos
-    * **19. Relaciones polimórficas**
-    * **20. Envío de correos**
-    * **21. Pruebas unitarias**
+    * [19. Relaciones polimórficas](https://www.loom.com/share/be662c3542954a578ec7dbd98664bc99)
+    * [20. Relaciones polimórficas (parte 2)](https://www.loom.com/share/b34c5d1e7e7247c0bb5508214e99c501)    
+    * [21. Envío de correos](https://www.loom.com/share/0c27a4e962044eb4b4c067e302d54209)
+    * **22. Pruebas unitarias** (PENDIENTE)
     
   * Lecturas
     * [JS Promises](https://dev.to/hem/gif-cheatsheet-for-javascript-promise-api-methods-promise-all-promise-allsettled-promise-race-promise-any-1l2o?fbclid=IwAR0iVPbpx8jCAqojCuIqZYX-x1ua3lNz-ZINgIyQ1PQX2VvMmREZ-SCQ_l8)
