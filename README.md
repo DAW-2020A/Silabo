@@ -269,7 +269,7 @@ Cada semana se deberán subir los avances de los videos según se especifique en
 
 ### Clase 17 - Envío de correos y Pruebas unitarias (2020-07-28)
 
-  * **EXAMEN**
+  * **EXAMEN** [Crear repos](https://classroom.github.com/a/N_9k0Big)
 
   * ### Lecturas
     * [Conceptos básicos de JS (Asignación de variables y mutación primitivos/objetos)](https://dev.to/nas5w/foundational-javascript-concepts-variable-assignment-and-primitive-object-mutability-237d?fbclid=IwAR2Txo23mlz9yRVoWU5ragSsZ-GRFuNChmUeIegoBjCV5iQe_9WDFOpOFdY)
