@@ -303,10 +303,13 @@ Cada semana se deberán subir los avances de los videos según se especifique en
 ### Clase 20 - ReactJS (2020-08-05)
 
 
-### Clase 21 - Introducción a NextJS (2020-08-11)
+### Clase 21 - Introducción a ReactJS (2020-08-11)
+  * [Manual de JS](https://developer.mozilla.org/es/docs/Web/JavaScript)
+  * [Repaso de JS](https://developer.mozilla.org/es/docs/Web/JavaScript/Una_re-introducci%C3%B3n_a_JavaScript)
+  * [Tutorial de JS](https://javascript.info/)
 
 
-### Clase 22 - NextJs con Ant Design (2020-08-12)
+### Clase 22 - Introducción a NextJS con Ant Design (2020-08-12)
 
 
 ### Clase 23 - Consumir datos de la API (2020-08-18)
