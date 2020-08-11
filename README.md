@@ -310,7 +310,7 @@ Cada semana se deberán subir los avances de los videos según se especifique en
   
   
   * [Documento React](https://epnecuador-my.sharepoint.com/:b:/g/personal/edwin_salvador_epn_edu_ec/EWg8X0IA7DRPpauswCwS8JAB8kSI7mf2oy-s5WOUk6bzcQ?e=h6jSc4)
-  * [Ejercicio Lista de tareas con React](https://classroom.github.com/a/_8xu5ofE)
+    * [Ejercicio Lista de tareas con React](https://classroom.github.com/a/_8xu5ofE)
 
 
 ### Clase 22 - Introducción a NextJS con Ant Design (2020-08-12)
