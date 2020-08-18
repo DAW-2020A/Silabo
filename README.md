@@ -314,9 +314,11 @@ Cada semana se deberán subir los avances de los videos según se especifique en
 
 
 ### Clase 22 - Introducción a NextJS con Ant Design (2020-08-12)
+   * [Ejercicio useEffect](https://classroom.github.com/a/ZjT2sPnP)
 
 
 ### Clase 23 - Consumir datos de la API (2020-08-18)
+  * 
   * ### Lecturas
     * [FakeMyAPI](https://fakemyapi.com/)
     
