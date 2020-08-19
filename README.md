@@ -318,7 +318,27 @@ Cada semana se deberán subir los avances de los videos según se especifique en
 
 
 ### Clase 23 - Consumir datos de la API (2020-08-18)
-  * 
+  * Ejercicio antd. [Crear el repo]()
+    * Formulario que me permita buscar peliculas por título, tipo (serie, película, episodio) desde api omdb (http://www.omdbapi.com/)
+    * Las películas se presentan en cards de esta manera: https://ant.design/components/card/#components-card-demo-meta
+      * Se debe mostrar la imagen, título, género, director directamente en el card
+      * Cada card tiene 2 botones en su footer
+        * 1. Ver detalles, ícono: <EyeOutlined />. Abre un modal con la siguiente info:
+            * Muestra todo el resto de atributos de la película utilizando el componente: https://ant.design/components/descriptions/#components-descriptions-demo-border
+            * Debe mostrar los comentarios debajo , con el componente: https://ant.design/components/comment/#components-comment-demo-list
+        * 2. Añadir comentario, ícono: <CommentOutlined />. 
+            * Debe abrir otro modal con el formulario de crear un comentario: https://ant.design/components/comment/#components-comment-demo-editor
+            * Esto añade una nueva propiedad en el objeto de la película correspondiente para almacenar estos comentarios como un arreglo.
+            * Los comentarios tendrán la siguiente estructura:
+            
+              ```json
+              {
+                "text": "Texto del comentario",
+                "createdAt": "fecha actual cuando se creó el comentario", // pueden usar new Date() o la librería momentjs (recomendado)
+                "user": "Nombre genérico de usuario"
+              }
+              ```
+    
   * ### Lecturas
     * [FakeMyAPI](https://fakemyapi.com/)
     
