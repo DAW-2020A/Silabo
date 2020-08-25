@@ -318,7 +318,7 @@ Cada semana se deberán subir los avances de los videos según se especifique en
 
 
 ### Clase 23 - Consumir datos de la API (2020-08-18)
-  * Ejercicio antd. [Crear el repo]()
+  * Ejercicio antd. [Crear el repo](https://classroom.github.com/a/Xgz1A_hq)
     * Formulario que me permita buscar peliculas por título, tipo (serie, película, episodio) desde api omdb (http://www.omdbapi.com/)
     * Las películas se presentan en cards de esta manera: https://ant.design/components/card/#components-card-demo-meta
       * Se debe mostrar la imagen, título, género, director directamente en el card
