@@ -353,6 +353,7 @@ Cada semana se deberán subir los avances de los videos según se especifique en
 
 ### Clase 26 - Autenticación en el cliente (2020-08-26)
   * [React boilerplate (proyecto base)](https://github.com/chalosalvador/react-api-boilerplate.git)
+  * [Documento explicación proyecto base](https://epnecuador-my.sharepoint.com/:w:/g/personal/edwin_salvador_epn_edu_ec/EXH7vIqD6XJFiD0jWZCpJXQB6ylPZbeScDIokzPv7iFC2g?e=wYPTxl)
   
 
 
