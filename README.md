@@ -352,8 +352,20 @@ Cada semana se deberán subir los avances de los videos según se especifique en
 
 
 ### Clase 26 - Autenticación en el cliente (2020-08-26)
-  * [React boilerplate (proyecto base)](https://github.com/chalosalvador/react-api-boilerplate.git)
+  * Hacer un fork del repo: [React boilerplate (proyecto base)](https://github.com/chalosalvador/react-api-boilerplate.git)
+    * Correr el `npm i`
+    * Crear en archivo `.env.development` con la variable `REACT_APP_API_HOST=http://localhost:8000/api`
+    * Correr `npm start`. Asegurarse que esto corra en el `http://localhost:3000`
   * [Documento explicación proyecto base](https://epnecuador-my.sharepoint.com/:w:/g/personal/edwin_salvador_epn_edu_ec/EXH7vIqD6XJFiD0jWZCpJXQB6ylPZbeScDIokzPv7iFC2g?e=wYPTxl)
+  * Hacer un fork del repo: [Blog API](https://github.com/chalosalvador/blog)
+    * Crear el archivo .env
+    * Correr `composer install`
+    * Generar la base de datos
+    * Correr el seed 
+    * Generar el jwt secret 
+    * Colocar credenciales del mailgun
+    * Correr `php artisan serve`. Asegurarse que esto corra en el `http://localhost:8000`
+    
   
 
 
