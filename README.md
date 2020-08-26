@@ -344,10 +344,11 @@ Cada semana se deberán subir los avances de los videos según se especifique en
     
 
 ### Clase 24 - Consumir datos de la API (2020-08-19)
+  * Ejercicio use effect, películas.
 
 
-### Clase 25 - Autenticación en el cliente (2020-08-25)
-  * **PRUEBA**
+### Clase 25 - React router y Layouts (2020-08-25)
+  * (Ejemplo react touter, layout, personalizacion antd)[https://github.com/DAW-2020A/intro-antd/tree/react-router]
 
 
 ### Clase 26 - Autenticación en el cliente (2020-08-26)
