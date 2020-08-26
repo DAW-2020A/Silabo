@@ -352,6 +352,8 @@ Cada semana se deberán subir los avances de los videos según se especifique en
 
 
 ### Clase 26 - Autenticación en el cliente (2020-08-26)
+  * [React boilerplate (proyecto base)](https://github.com/chalosalvador/react-api-boilerplate.git)
+  
 
 
 ### Clase 27 - Formularios y validación de datos (2020-09-01)
