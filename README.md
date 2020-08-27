@@ -351,7 +351,7 @@ Cada semana se deberán subir los avances de los videos según se especifique en
   * (Ejemplo react touter, layout, personalizacion antd)[https://github.com/DAW-2020A/intro-antd/tree/react-router]
 
 
-### Clase 26 - Autenticación en el cliente (2020-08-26)
+### Clase 26 - React boilerplate (proyecto base) (2020-08-26)
   * Hacer un fork del repo: [React boilerplate (proyecto base)](https://github.com/chalosalvador/react-api-boilerplate.git)
     * Correr el `npm i`
     * Crear en archivo `.env.development` con la variable `REACT_APP_API_HOST=http://localhost:8000/api`
@@ -365,6 +365,16 @@ Cada semana se deberán subir los avances de los videos según se especifique en
     * Generar el jwt secret 
     * Colocar credenciales del mailgun
     * Correr `php artisan serve`. Asegurarse que esto corra en el `http://localhost:8000`
+    
+  * ### Ejercicio utilizando el boilerplate
+    * Crear un nuevo item en el submenú del usuario que diga "Perfil".
+    * Esta opción debe dirigir a la ruta "/perfil"
+    * Crear una página que presente la información del perfil del usuario que devuelve el api.
+      * Para obtener la información del usuario puede utilizar el hook `useAuth()`, puede usar un console.log para ver la información que se incluye en este hook.
+    * Debajo de la información del perfil deben presentar las categorias a las que está suscrito el usuario. 
+      * Deberá agregar un nuevo endpoint que permita obtener esta información desde el api. `/user/categories`.
+      * Este enpoint debe estar protegido y debe devolver únicamente las categorias del usuario que hace la petición.
+      * El controlador debe obtener la información del usuario mediante `$user = Auth::user()`. Y puede devolver las categorias en un JsonResponse utilizando `$user->categories`.
     
   
 
