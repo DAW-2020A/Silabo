@@ -394,8 +394,10 @@ Cada semana se deberán subir los avances de los videos según se especifique en
 ### Clase 31 - Seguridad (2020-09-15)
 
 
-### Clase 32 - Seguridad (2020-09-16)
+### Clase 32 - Examen (2020-09-16)
   * **EXAMEN**
+  
+### Entrega de proyecto (2020-09-23)  
   * **ENTREGA DE PROYECTO FINAL**
 
 
