@@ -395,7 +395,7 @@ Cada semana se deberán subir los avances de los videos según se especifique en
 
 
 ### Clase 32 - Examen (2020-09-16)
-  * **EXAMEN**
+  * **EXAMEN** [CREAR REPO](https://classroom.github.com/a/yGMOfq-7)
   
 ### Entrega de proyecto (2020-09-23)  
   * **ENTREGA DE PROYECTO FINAL**
