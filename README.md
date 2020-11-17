@@ -1,8 +1,8 @@
 # Sílabo para Desarrollo de Aplicaciones Web (TDSR414) ESFOT-EPN
 
 * **Materia:** TDSR414 Desarrollo de Aplicaciones Web
-* **Lugar:** Zoom (Meeting ID: 986 5452 4102)
-* **Horario:**  Martes de 17:00 a 20:00, Miércoles de 16:00 a 19:00
+* **Lugar:** Zoom (Meeting ID: 853 1026 1587)
+* **Horario:**  Martes de 17:00 a 20:00, Miércoles de 17:00 a 20:00
 * **Profesor:** Edwin Salvador, [edwin.salvador@epn.edu.ec](mailto:edwin.salvador@epn.edu.ec)
 
 ## Objetivos del Curso
@@ -43,13 +43,12 @@ Cada semana se deberán subir los avances de los videos según se especifique en
 
 ## CALENDARIO DE CLASES
 
-### Clase 1 - Presentación (2020-06-02)
-  * [Encuesta de inicio de curso](https://forms.office.com/Pages/ResponsePage.aspx?id=ak4qaH-nWEmjrJ4mbRiqN173BU_p6khOitbGQ_4-nytUM0Y3SjRRQlU3T1RYV0xaQzdGTkJYUVpOTS4u)
+### Clase 1 - Presentación (2020-11-17)
+  * [Encuesta de inicio de curso](https://forms.office.com/Pages/ResponsePage.aspx?id=ak4qaH-nWEmjrJ4mbRiqN173BU_p6khOitbGQ_4-nytUNTA2N0dWNVgzNldRMFRNTUxXQ1RJSU1CMi4u)
   * Verificar instalaciones de XAMPP, PHPStorm.
-  * [Crear repositorios individuales para entrega de deberes](https://classroom.github.com/a/KXwj-Vo_)
   * [Videos de LARAVEL API REST](https://loom.com/share/folder/1941937cf66e4961a4770971e0219ecf)
   * [Documento guía de LARAVEL API REST](https://epnecuador-my.sharepoint.com/:b:/g/personal/edwin_salvador_epn_edu_ec/EQxcHr7IQAxLjUWsv01xKZUBWgR6fkgy5p9Q-LpCkYcx3w?e=dEXWLN)
-  * [Grabaciones clases](https://epnecuador-my.sharepoint.com/:f:/g/personal/edwin_salvador_epn_edu_ec/Eq9EgfT8hoZDrMx4HEqpU64BRp0uIoGTbUvtx47pmB1hsw?e=u2z7fP)
+  * [Grabaciones clases](https://epnecuador-my.sharepoint.com/:f:/g/personal/edwin_salvador_epn_edu_ec/EhPswlIurK5CujpRnY2L948BHEe2A0L-NXO4kHyisNax1A?e=ct4IS2)
   * Ideas para implementación de proyecto de curso
   * Formación de grupos
   
@@ -68,7 +67,7 @@ Cada semana se deberán subir los avances de los videos según se especifique en
     * [2. Instalación de Laravel](https://www.loom.com/share/82cc140b22354b2299a5342f5b0a5e7a)
  
  
-### Clase 2 - Instalación de Laravel (2020-06-03)
+### Clase 2 - Instalación de Laravel (2020-11-18)
   * Trabajo en avances de videos
   * Trabajo en avances de proyectos grupales
   * ### Lecturas
@@ -76,15 +75,15 @@ Cada semana se deberán subir los avances de los videos según se especifique en
 
 
   
-### Clase 3 - API, REST, Laravel (2020-06-09)
+### Clase 3 - API, REST, Laravel (2020-11-24)
   * [Unirse a la clase en Quizizz](https://quizizz.com/join?class=T060819)
-  * [Ejercicios de JavaScript](https://repl.it/classroom/invite/rh8TLjA). 2 Puntos extra al examen para quienes completen todos los ejercicios correctamente y puedan explicar cualquiera de ellos al azar.
+  * [Ejercicios de JavaScript](https://repl.it/classroom/invite/zVqeLwh). 2 Puntos extra al examen para quienes completen todos los ejercicios correctamente y puedan explicar cualquiera de ellos al azar.
   * ¿Dudas sobre Instalación de Laravel?
   * ¿Qué es una API?
   * ¿Qué es REST?
   * ¿Qué es API RESTful?
-  * Decisión de proyectos grupales. [Ideas de proyectos](https://epnecuador-my.sharepoint.com/:x:/g/personal/edwin_salvador_epn_edu_ec/EZwZ-GV2UK1FoJZO0xqjrM4BJnasOcMg0Qwm1SJJHflE1A?e=mg8He0)
-  * [Crear repositorios grupales](https://classroom.github.com/g/ZfYRtXEh)
+  * Decisión de proyectos grupales. [Ideas de proyectos](https://epnecuador-my.sharepoint.com/:x:/g/personal/edwin_salvador_epn_edu_ec/ESLqwAe-vshFtEVwgx_Khc4BNjUD8gjvoxT0XUQECAPGFw?e=FWHsIF)
+  * [Crear repositorios grupales]()
   * Diseñar modelos de bases de datos
   
   * ### Videos
@@ -93,12 +92,12 @@ Cada semana se deberán subir los avances de los videos según se especifique en
     * [5. Modelo y migraciones Article](https://www.loom.com/share/593db733b30f4f0da3bca5238c360140)
     
   
-### Clase 4 - API, REST, Laravel (2020-06-10)
+### Clase 4 - API, REST, Laravel (2020-11-25)
   * Trabajo en avances de videos
   * Trabajo en avances de proyectos grupales
   
   
-### Clase 5 - Modelos y migraciones (2020-06-16)
+### Clase 5 - Modelos y migraciones (2020-12-01)
   * ¿Dudas sobre modelos y migraciones en Laravel?
   * ¿Qué es un modelo?
   * ¿Qué son las migraciones?
@@ -119,12 +118,12 @@ Cada semana se deberán subir los avances de los videos según se especifique en
     * [The Differences Between a Junior, Mid-Level, and Senior Developer](https://medium.com/better-programming/the-differences-between-a-junior-mid-level-and-senior-developer-bb2cb2eb000d)
 
 
-### Clase 6 - Modelos y migraciones (2020-06-17)
+### Clase 6 - Modelos y migraciones (2020-12-02)
   * Trabajo en avances de videos
   * Trabajo en avances de proyectos grupales
 
 
-### Clase 7 - Seeding de la BDD, Rutas y Controladores (2020-06-23)
+### Clase 7 - Seeding de la BDD, Rutas y Controladores (2020-12-08)
   * ¿Dudas sobre seeding de la BDD, rutas y controladores?
   * ¿Para qué sirve el seeding de la BDD?
   * ¿Cómo se deben estrucutras las rutas de la API?
@@ -144,12 +143,12 @@ Cada semana se deberán subir los avances de los videos según se especifique en
     * [UI Kits for any day use](https://dev.to/tngeene/ui-kits-for-any-day-use-215e?fbclid=IwAR3qu0UPTxJJ8brHw-b5pPUg8zSKcXP4OcO6WyMkxt-sXa3A6HPHe7EV3z0)
     
   
-### Clase 8 - Seeding de la BDD, Rutas y Controladore (2020-06-24)  
+### Clase 8 - Seeding de la BDD, Rutas y Controladores (2020-12-09)  
   * Trabajo en avances de videos
   * Trabajo en avances de proyectos grupales
 
   
-### Clase 9 - Autenticación de usuarios (2020-06-30)
+### Clase 9 - Autenticación de usuarios (2020-12-15)
   * ¿Dudas sobre Autenticación de usuarios con JWT?
   * ¿Qué es la autenticación de usuarios?
   * ¿Qué es JWT?
@@ -163,7 +162,7 @@ Cada semana se deberán subir los avances de los videos según se especifique en
     * [13. Relaciones - Muchos a Muchos](https://www.loom.com/share/e28bb083c22f49fa8bc415dac4a60b36)
 
 
-### Clase 10 - Autenticación de usuarios (2020-07-01)
+### Clase 10 - Autenticación de usuarios (2020-12-16)
   * Trabajo en avances de videos
   * Trabajo en avances de proyectos grupales
   * Material de diseño
@@ -209,8 +208,8 @@ Cada semana se deberán subir los avances de los videos según se especifique en
       * [Generador de políticas de privacidad](https://getterms.io/)
   
 
-### Clase 11 - Relaciones de BDD (2020-07-07)
-  * **PRUEBA:** [Crear repositorios](https://classroom.github.com/a/Wpl-ktYl)
+### Clase 11 - Relaciones de BDD (2020-12-22)
+  * **PRUEBA:** [Crear repositorios]()
   
   * ### Videos
     * [14. Recursos API](https://www.loom.com/share/1813c69d34f44ca680e86e07db38e402)
@@ -218,7 +217,7 @@ Cada semana se deberán subir los avances de los videos según se especifique en
     * [16. Validación de datos (parte 2)](https://www.loom.com/share/94963aa6d0d04bb3a807b5ea00b7cde2)
     
 
-### Clase 12 - Relaciones de BDD (2020-07-08)
+### Clase 12 - Relaciones de BDD (2020-12-23)
   * ¿Dudas sobre las relaciones en la BDD?
   * Revisión de avances
   * Trabajo en avances de proyectos grupales
@@ -227,29 +226,29 @@ Cada semana se deberán subir los avances de los videos según se especifique en
     * [¿Qué pasa cuando ingresamos una URL en el navegador?](https://dev.to/educative/behind-the-screens-what-happens-when-you-type-a-url-in-a-browser-161d?fbclid=IwAR1uFyksIjCJ_pqCj-x6j69lxyLqIRZn1movLA6eTGPj3fQkvsRqPj7yS8w)
 
     
-### Clase 13 - Validación de datos en el servidor (2020-07-14)
+### Clase 13 - Validación de datos en el servidor (2021-01-05)
   * ¿Dudas sobre la validación de datos en el servidor?
   * Revisión de avances
   
-  * [Solucion de la prueba](https://github.com/DAW-2020A/prueba1-bimestre1-solucion)
+  * [Solucion de la prueba](https://github.com/DAW-ESFOT/prueba1-bimestre1-solucion)
   
   * ### Videos
     * [17. Subir y descargar imágenes](https://www.loom.com/share/f0f39ca5253a4fb1aa8103fa1bc56f46)
     * [18. Autorización - Roles y Permisos](https://www.loom.com/share/b07b9f42a6be47dc938da8ae6cdca1ae)
     
     
-### Clase 14 - Validación de datos en el servidor (2020-07-15)   
+### Clase 14 - Validación de datos en el servidor (2021-01-06)   
   * Trabajo en avances de videos
   * Trabajo en avances de proyectos grupales
   
-  * ### [Crear repositorios grupales para frontend](https://classroom.github.com/g/VZAErCZA)
+  * ### [Crear repositorios grupales para frontend]()
   
   * ### Lecturas
     * [Galería con estilos de diseño de páginas web](https://designsystemsrepo.com/design-systems/)
 
 
     
-### Clase 15 - Autorización, Roles y Permisos (2020-07-21)
+### Clase 15 - Autorización, Roles y Permisos (2021-01-12)
   * ¿Dudas sobre Autorización, Roles y Permisos?
   * Revisión de avances
     
@@ -262,14 +261,14 @@ Cada semana se deberán subir los avances de los videos según se especifique en
   * Lecturas
     * [JS Promises](https://dev.to/hem/gif-cheatsheet-for-javascript-promise-api-methods-promise-all-promise-allsettled-promise-race-promise-any-1l2o?fbclid=IwAR0iVPbpx8jCAqojCuIqZYX-x1ua3lNz-ZINgIyQ1PQX2VvMmREZ-SCQ_l8)
     
-### Clase 16 - Autorización, Roles y Permisos (2020-07-22)
+### Clase 16 - Autorización, Roles y Permisos (2021-01-13)
   * Trabajo en avances de videos
   * Trabajo en avances de proyectos grupales
 
 
-### Clase 17 - Envío de correos y Pruebas unitarias (2020-07-28)
+### Clase 17 - Envío de correos y Pruebas unitarias (2021-01-19)
 
-  * **EXAMEN** [Crear repos](https://classroom.github.com/a/N_9k0Big)
+  * **EXAMEN** [Crear repos]()
 
   * ### Lecturas
     * [Conceptos básicos de JS (Asignación de variables y mutación primitivos/objetos)](https://dev.to/nas5w/foundational-javascript-concepts-variable-assignment-and-primitive-object-mutability-237d?fbclid=IwAR2Txo23mlz9yRVoWU5ragSsZ-GRFuNChmUeIegoBjCV5iQe_9WDFOpOFdY)
@@ -279,7 +278,7 @@ Cada semana se deberán subir los avances de los videos según se especifique en
 
 
 
-### Clase 18 - Envío de correos y Pruebas unitarias (2020-07-29)
+### Clase 18 - Envío de correos y Pruebas unitarias (2021-01-20)
   * ### **Presentación de proyecto primer bimestre**
     * Acuerdo de TrialQ: Hasta Recursos API y 1 punto extra al examen si presentan hasta validación de datos funcionando perfecto.
     * Acuerdo de sistema de busses: Hasta JWT y 1 punto extra al examen si presentan hasta Relaciones funcionando perfecto.      
@@ -287,7 +286,7 @@ Cada semana se deberán subir los avances de los videos según se especifique en
   * Trabajo en avances de proyectos grupales
 
 
-### Clase 19 - Introducción a ReactJS (2020-08-04)
+### Clase 19 - Introducción a ReactJS (2021-01-26)
    * [Repaso de JS](https://epnecuador-my.sharepoint.com/:b:/g/personal/edwin_salvador_epn_edu_ec/EaxCKtCJ36ZEoJwmO-wxvzkB6xqOk8Ax5CpFnyXoTkN4MQ?e=3y7kdT)
    * ### Lecturas
     * [Learn React in 2020](https://dev.to/codeartistryio/want-to-learn-react-in-2020-here-s-the-blueprint-to-follow-2jdd)
@@ -300,25 +299,25 @@ Cada semana se deberán subir los avances de los videos según se especifique en
 
 
 
-### Clase 20 - ReactJS (2020-08-05)
+### Clase 20 - ReactJS (2021-01-27)
 
 
-### Clase 21 - Introducción a ReactJS (2020-08-11)
+### Clase 21 - Introducción a ReactJS (2021-02-02)
   * [Manual de JS](https://developer.mozilla.org/es/docs/Web/JavaScript)
   * [Repaso de JS](https://developer.mozilla.org/es/docs/Web/JavaScript/Una_re-introducci%C3%B3n_a_JavaScript)
   * [Tutorial de JS](https://javascript.info/)
   
   
   * [Documento React](https://epnecuador-my.sharepoint.com/:b:/g/personal/edwin_salvador_epn_edu_ec/EWg8X0IA7DRPpauswCwS8JAB8kSI7mf2oy-s5WOUk6bzcQ?e=h6jSc4)
-    * [Ejercicio Lista de tareas con React](https://classroom.github.com/a/_8xu5ofE)
+    * [Ejercicio Lista de tareas con React]()
 
 
-### Clase 22 - Introducción a NextJS con Ant Design (2020-08-12)
-   * [Ejercicio useEffect](https://classroom.github.com/a/ZjT2sPnP)
+### Clase 22 - Introducción a NextJS con Ant Design (2021-02-03)
+   * [Ejercicio useEffect]()
 
 
-### Clase 23 - Consumir datos de la API (2020-08-18)
-  * Ejercicio antd. [Crear el repo](https://classroom.github.com/a/Xgz1A_hq)
+### Clase 23 - Consumir datos de la API (2021-02-09)
+  * Ejercicio antd. [Crear el repo]()
     * Formulario que me permita buscar peliculas por título, tipo (serie, película, episodio) desde api omdb (http://www.omdbapi.com/)
     * Las películas se presentan en cards de esta manera: https://ant.design/components/card/#components-card-demo-meta
       * Se debe mostrar la imagen, título, género, director directamente en el card
@@ -343,15 +342,15 @@ Cada semana se deberán subir los avances de los videos según se especifique en
     * [FakeMyAPI](https://fakemyapi.com/)
     
 
-### Clase 24 - Consumir datos de la API (2020-08-19)
+### Clase 24 - Consumir datos de la API (2021-02-10)
   * Ejercicio use effect, películas.
 
 
-### Clase 25 - React router y Layouts (2020-08-25)
-  * (Ejemplo react touter, layout, personalizacion antd)[https://github.com/DAW-2020A/intro-antd/tree/react-router]
+### Clase 25 - React router y Layouts (2021-02-17)
+  * (Ejemplo react touter, layout, personalizacion antd)[https://github.com/DAW-ESFOT/intro-antd/tree/react-router]
 
 
-### Clase 26 - React boilerplate (proyecto base) (2020-08-26)
+### Clase 26 - React boilerplate (proyecto base) (2021-02-23)
   * Hacer un fork del repo: [React boilerplate (proyecto base)](https://github.com/chalosalvador/react-api-boilerplate.git)
     * Correr el `npm i`
     * Crear en archivo `.env.development` con la variable `REACT_APP_API_HOST=http://localhost:8000/api`
@@ -379,25 +378,25 @@ Cada semana se deberán subir los avances de los videos según se especifique en
   
 
 
-### Clase 27 - Formularios y validación de datos (2020-09-01)
+### Clase 27 - Formularios y validación de datos (2021-02-24)
 
 
-### Clase 28 - Formularios y validación de datos (2020-09-02)
+### Clase 28 - Formularios y validación de datos (2021-03-02)
 
 
-### Clase 29 - Reutilización de componentes (2020-09-08)
+### Clase 29 - Reutilización de componentes (2021-03-03)
 
 
-### Clase 30 - Reutilización de componentes (2020-09-09)
+### Clase 30 - Reutilización de componentes (2021-03-09)
 
 
-### Clase 31 - Seguridad (2020-09-15)
+### Clase 31 - Seguridad (2021-03-10)
 
 
-### Clase 32 - Examen (2020-09-16)
-  * **EXAMEN** [CREAR REPO](https://classroom.github.com/a/yGMOfq-7)
+### Clase 32 - Examen (2021-03-16)
+  * **EXAMEN** [CREAR REPO]()
   
-### Entrega de proyecto (2020-09-23)  
+### EXTRA - Entrega de proyecto (2021-03-17)  
   * **ENTREGA DE PROYECTO FINAL**
 
 
