@@ -74,6 +74,7 @@ Cada semana se deberán subir los avances de los videos según se especifique en
   * Trabajo en avances de videos
   * Trabajo en avances de proyectos grupales
   * ### Lecturas
+    * [Guía de Git](https://rogerdudler.github.io/git-guide/index.es.html)
     * [Ramas en Git](https://nvie.com/posts/a-successful-git-branching-model/)
 
 
