@@ -68,6 +68,9 @@ Cada semana se deberán subir los avances de los videos según se especifique en
  
  
 ### Clase 2 - Instalación de Laravel (2020-11-18)
+  * Conveciones API:
+    * https://www.restapitutorial.com/lessons/restfulresourcenaming.html
+    * https://restfulapi.net/resource-naming/
   * Trabajo en avances de videos
   * Trabajo en avances de proyectos grupales
   * ### Lecturas
