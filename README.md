@@ -71,6 +71,8 @@ Cada semana se deberán subir los avances de los videos según se especifique en
   * Conveciones API:
     * https://www.restapitutorial.com/lessons/restfulresourcenaming.html
     * https://restfulapi.net/resource-naming/
+    
+  * Ejemplo creación proyecto: https://github.com/DAW-ESFOT/blog
   * Trabajo en avances de videos
   * Trabajo en avances de proyectos grupales
   * ### Lecturas
