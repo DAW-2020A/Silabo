@@ -82,6 +82,7 @@ Cada semana se deberán subir los avances de los videos según se especifique en
 
   
 ### Clase 3 - API, REST, Laravel (2020-11-24)
+  * [Crear repos de los avances de Laravel](https://classroom.github.com/a/A0tDEgFw)
   * [Unirse a la clase en Quizizz](https://quizizz.com/join?class=T060819)
   * [Ejercicios de JavaScript](https://repl.it/classroom/invite/zVqeLwh). 2 Puntos extra al examen para quienes completen todos los ejercicios correctamente y puedan explicar cualquiera de ellos al azar.
   * ¿Dudas sobre Instalación de Laravel?
