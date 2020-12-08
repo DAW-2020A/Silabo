@@ -147,6 +147,7 @@ Cada semana se deberán subir los avances de los videos según se especifique en
   * ### Deber
     * Completar el Backlog de los proyectos en tablero de ZenHub
     * Comenzar con el desarrollo de los proyectos de acuerdo a los sprints
+    * Estimar el costo por el desarrollo de su proyecto.
   
   * ### Lecturas
     * [JSON Web Tokens](https://jwt.io/introduction/)
