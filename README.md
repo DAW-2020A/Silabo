@@ -220,8 +220,7 @@ Cada semana se deberán subir los avances de los videos según se especifique en
   
 
 ### Clase 11 - Relaciones de BDD (2020-12-22)
-  * **PRUEBA:** [Crear repositorios]()
-  
+
   * ### Videos
     * [14. Recursos API](https://www.loom.com/share/1813c69d34f44ca680e86e07db38e402)
     * [15. Validación de datos (parte 1)](https://www.loom.com/share/1690c558c6ef44b3bddb09fe3225527e)
@@ -239,9 +238,9 @@ Cada semana se deberán subir los avances de los videos según se especifique en
     
 ### Clase 13 - Validación de datos en el servidor (2021-01-05)
   * ¿Dudas sobre la validación de datos en el servidor?
-  * Revisión de avances
+  * Revisión de avances (TODOS LOS GRUPOS PRESENTAN HASTA LA SECCIÓN DE RELACIONES)
   
-  * [Solucion de la prueba](https://github.com/DAW-ESFOT/prueba1-bimestre1-solucion)
+  * [Solución de la prueba 2020A](https://github.com/DAW-ESFOT/prueba1-bimestre1-solucion)
   
   * ### Videos
     * [17. Subir y descargar imágenes](https://www.loom.com/share/f0f39ca5253a4fb1aa8103fa1bc56f46)
@@ -249,6 +248,7 @@ Cada semana se deberán subir los avances de los videos según se especifique en
     
     
 ### Clase 14 - Validación de datos en el servidor (2021-01-06)
+  * **PRUEBA:** [Crear repositorios]()
   * Refuerzo de conceptos de JS
     * [Conceptos esenciales de JS](https://medium.com/javascript-in-plain-english/the-essential-javascript-concepts-that-you-should-understand-ff2b8546c868)
     * [5 Preguntas técnicas sobre JS para una entrevista de trabajo](https://medium.com/javascript-in-plain-english/5-javascript-technical-interview-questions-that-everyone-has-to-prepare-39c0c062891f)
@@ -296,8 +296,6 @@ Cada semana se deberán subir los avances de los videos según se especifique en
 
 ### Clase 18 - Envío de correos y Pruebas unitarias (2021-01-20)
   * ### **Presentación de proyecto primer bimestre**
-    * Acuerdo de TrialQ: Hasta Recursos API y 1 punto extra al examen si presentan hasta validación de datos funcionando perfecto.
-    * Acuerdo de sistema de busses: Hasta JWT y 1 punto extra al examen si presentan hasta Relaciones funcionando perfecto.      
   * Trabajo en avances de videos
   * Trabajo en avances de proyectos grupales
 
