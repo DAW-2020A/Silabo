@@ -248,7 +248,7 @@ Cada semana se deberán subir los avances de los videos según se especifique en
     
     
 ### Clase 14 - Validación de datos en el servidor (2021-01-06)
-  * **PRUEBA:** [Crear repositorios]()
+  * **PRUEBA:** [Crear repositorios](https://classroom.github.com/a/UCVK3V2X)
   * Refuerzo de conceptos de JS
     * [Conceptos esenciales de JS](https://medium.com/javascript-in-plain-english/the-essential-javascript-concepts-that-you-should-understand-ff2b8546c868)
     * [5 Preguntas técnicas sobre JS para una entrevista de trabajo](https://medium.com/javascript-in-plain-english/5-javascript-technical-interview-questions-that-everyone-has-to-prepare-39c0c062891f)
