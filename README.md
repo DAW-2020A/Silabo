@@ -283,9 +283,6 @@ Cada semana se deberán subir los avances de los videos según se especifique en
 
 
 ### Clase 17 - Envío de correos y Pruebas unitarias (2021-01-19)
-
-  * **EXAMEN** [Crear repos]()
-
   * ### Lecturas
     * [Conceptos básicos de JS (Asignación de variables y mutación primitivos/objetos)](https://dev.to/nas5w/foundational-javascript-concepts-variable-assignment-and-primitive-object-mutability-237d?fbclid=IwAR2Txo23mlz9yRVoWU5ragSsZ-GRFuNChmUeIegoBjCV5iQe_9WDFOpOFdY)
     * [Conceptos JS para entender React](https://codequs.com/p/r1U2DMtHL/10-javascript-es6-concepts-you-need-to-master-react/?fbclid=IwAR2NCXvI3_73VLyoDzOt_zL27q32t9sDd2IFjUKacdNjQ69EXKs1naTRp4M)
@@ -295,12 +292,12 @@ Cada semana se deberán subir los avances de los videos según se especifique en
 
 
 ### Clase 18 - Envío de correos y Pruebas unitarias (2021-01-20)
-  * ### **Presentación de proyecto primer bimestre**
   * Trabajo en avances de videos
   * Trabajo en avances de proyectos grupales
 
 
 ### Clase 19 - Introducción a ReactJS (2021-01-26)
+   * ### **Presentación de proyecto primer bimestre**
    * [Repaso de JS](https://epnecuador-my.sharepoint.com/:b:/g/personal/edwin_salvador_epn_edu_ec/EaxCKtCJ36ZEoJwmO-wxvzkB6xqOk8Ax5CpFnyXoTkN4MQ?e=3y7kdT)
    * ### Lecturas
     * [Learn React in 2020](https://dev.to/codeartistryio/want-to-learn-react-in-2020-here-s-the-blueprint-to-follow-2jdd)
@@ -310,10 +307,8 @@ Cada semana se deberán subir los avances de los videos según se especifique en
     * [Local, Session storage, Cookies](https://morioh.com/p/73377031920f?fbclid=IwAR2AUfmTED7iRa5dciGvpFyazMSCKQKvbu8SB2t2GM6lFzPtBXAj0Pb1SXs)
     
 
-
-
-
 ### Clase 20 - ReactJS (2021-01-27)
+  * **EXAMEN** [Crear repos]()
 
 
 ### Clase 21 - Introducción a ReactJS (2021-02-02)
