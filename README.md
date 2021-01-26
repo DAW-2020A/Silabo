@@ -308,7 +308,15 @@ Cada semana se deberán subir los avances de los videos según se especifique en
     
 
 ### Clase 20 - ReactJS (2021-01-27)
-  * **EXAMEN** [Crear repos]()
+  * **EXAMEN** 
+    * **Publicar la API de Laravel en un servidor en la nube**
+    * Obtener el Pack de GitHub Education
+    * Decidir la nube que van a utilizar y seguir los tutoriales recomendados para publicar su API
+      - Digital Ocean [Tutorial](https://www.youtube.com/watch?v=qkg5Cufa-C8&ab_channel=DigitalOcean)
+      - Microsoft Azure [Turorial 1](https://docs.microsoft.com/es-es/azure/app-service/quickstart-php?pivots=platform-linux#code-try-2) [Tutorial 2](https://docs.microsoft.com/es-es/azure/app-service/tutorial-php-mysql-app?pivots=platform-linux)
+      - Heroku
+      - AWS
+      
 
 
 ### Clase 21 - Introducción a ReactJS (2021-02-02)
