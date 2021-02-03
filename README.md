@@ -320,14 +320,15 @@ Cada semana se deberán subir los avances de los videos según se especifique en
 
 
 ### Clase 21 - Introducción a ReactJS (2021-02-02)
+
+  * [Documento React](https://epnecuador-my.sharepoint.com/:b:/g/personal/edwin_salvador_epn_edu_ec/EWg8X0IA7DRPpauswCwS8JAB8kSI7mf2oy-s5WOUk6bzcQ?e=h6jSc4)
+  * [Ejercicio Repaso React](https://github.com/DAW-ESFOT/react-review)
+    
   * [Manual de JS](https://developer.mozilla.org/es/docs/Web/JavaScript)
   * [Repaso de JS](https://developer.mozilla.org/es/docs/Web/JavaScript/Una_re-introducci%C3%B3n_a_JavaScript)
   * [Tutorial de JS](https://javascript.info/)
   
   
-  * [Documento React](https://epnecuador-my.sharepoint.com/:b:/g/personal/edwin_salvador_epn_edu_ec/EWg8X0IA7DRPpauswCwS8JAB8kSI7mf2oy-s5WOUk6bzcQ?e=h6jSc4)
-    * [Ejercicio Lista de tareas con React]()
-
 
 ### Clase 22 - Introducción a NextJS con Ant Design (2021-02-03)
    * [Ejercicio useEffect]()
