@@ -324,6 +324,7 @@ Cada semana se deberán subir los avances de los videos según se especifique en
   * [Documento React](https://epnecuador-my.sharepoint.com/:b:/g/personal/edwin_salvador_epn_edu_ec/EWg8X0IA7DRPpauswCwS8JAB8kSI7mf2oy-s5WOUk6bzcQ?e=h6jSc4)
   * [Ejercicio en clase Repaso React](https://github.com/DAW-ESFOT/react-review)
   * [Deber: ejercicio repaso React Lista de libros](https://classroom.github.com/a/oJjtBDOY)
+    * [Wireframes deber](https://www.figma.com/file/Vl7DQ6AJWf7ivNjsFs9tn7/Figma-Basics?node-id=0%3A286)
     
   * [Manual de JS](https://developer.mozilla.org/es/docs/Web/JavaScript)
   * [Repaso de JS](https://developer.mozilla.org/es/docs/Web/JavaScript/Una_re-introducci%C3%B3n_a_JavaScript)
