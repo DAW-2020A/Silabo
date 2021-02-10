@@ -363,7 +363,7 @@ Cada semana se deberán subir los avances de los videos según se especifique en
     
 
 ### Clase 24 - Consumir datos de la API (2021-02-10)
-  * Ejercicio use effect, películas.
+  * [Intro NextJS](https://github.com/chalosalvador/nextjs-daw)
 
 
 ### Clase 25 - React router y Layouts (2021-02-17)
