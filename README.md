@@ -257,8 +257,6 @@ Cada semana se deberán subir los avances de los videos según se especifique en
   * Trabajo en avances de videos
   * Trabajo en avances de proyectos grupales
   
-  * ### [Crear repositorios grupales para frontend]()
-  
   * ### Lecturas
     * [Galería con estilos de diseño de páginas web](https://designsystemsrepo.com/design-systems/)
 
@@ -367,7 +365,10 @@ Cada semana se deberán subir los avances de los videos según se especifique en
 
 
 ### Clase 25 - React router y Layouts (2021-02-17)
-  * (Ejemplo react touter, layout, personalizacion antd)[https://github.com/DAW-ESFOT/intro-antd/tree/react-router]
+  * ### [Crear repositorios grupales para frontend](https://classroom.github.com/g/qMpl3-NH)
+  * ## Lecturas
+    * [Cookies](https://developer.mozilla.org/es/docs/Web/HTTP/Cookies)
+    * [XSS (Cross-site scripting)](https://owasp.org/www-community/attacks/xss/)
 
 
 ### Clase 26 - React boilerplate (proyecto base) (2021-02-23)
