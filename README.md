@@ -43,12 +43,12 @@ Cada semana se deberán subir los avances de los videos según se especifique en
 
 ## CALENDARIO DE CLASES
 
-### Clase 1 - Presentación (2020-11-17)
-  * [Encuesta de inicio de curso](https://forms.office.com/Pages/ResponsePage.aspx?id=ak4qaH-nWEmjrJ4mbRiqN173BU_p6khOitbGQ_4-nytUNTA2N0dWNVgzNldRMFRNTUxXQ1RJSU1CMi4u)
+### Clase 1 - Presentación (2021-06-01)
+  * [Encuesta de inicio de curso](https://forms.office.com/Pages/ResponsePage.aspx?id=ak4qaH-nWEmjrJ4mbRiqN173BU_p6khOitbGQ_4-nytUMVVZRkNDRVhCWEVQMTBDRUxPRTI3OTFDSS4u)
   * Verificar instalaciones de XAMPP, PHPStorm.
-  * [Videos de LARAVEL API REST](https://loom.com/share/folder/1941937cf66e4961a4770971e0219ecf)
+  * [Videos de LARAVEL API REST](https://www.youtube.com/playlist?list=PLCwwh5NHpa113C-K1M38hqGYHRBKSsA1f)
   * [Documento guía de LARAVEL API REST](https://epnecuador-my.sharepoint.com/:b:/g/personal/edwin_salvador_epn_edu_ec/EQxcHr7IQAxLjUWsv01xKZUBWgR6fkgy5p9Q-LpCkYcx3w?e=dEXWLN)
-  * [Grabaciones clases](https://epnecuador-my.sharepoint.com/:f:/g/personal/edwin_salvador_epn_edu_ec/EhPswlIurK5CujpRnY2L948BHEe2A0L-NXO4kHyisNax1A?e=ct4IS2)
+  * [Grabaciones clases](https://epnecuador-my.sharepoint.com/:f:/g/personal/edwin_salvador_epn_edu_ec/Emw67FvdGTVKoiBvWEfOv48B2-a8k_VOtPIWjJrtmSf3Fg?e=ZxHpUr)
   * Ideas para implementación de proyecto de curso
   * Formación de grupos
   
@@ -62,9 +62,8 @@ Cada semana se deberán subir los avances de los videos según se especifique en
       * Configurar el ambiente de GitHub con [ZenHub](https://chrome.google.com/webstore/detail/zenhub-for-github/ogcgkffhplmphkaahpmffcafajaocjbd) según lo explicado en clase.
       
   * ### Videos
-    * **Crear cuenta en Loom. Los videos deben verlos siempre autenticados en Loom para que Loom me verifique quienes han visto los videos.**
-    * [1. Introducción](https://www.loom.com/share/1fbae31dc0ee4de0b2e4fa9486c16e01)
-    * [2. Instalación de Laravel](https://www.loom.com/share/82cc140b22354b2299a5342f5b0a5e7a)
+    * [1. Introducción](https://www.youtube.com/watch?v=F3JPej3c7y4&list=PLCwwh5NHpa113C-K1M38hqGYHRBKSsA1f&index=2&ab_channel=ChaloSalvador)
+    * [2. Instalación de Laravel](https://www.youtube.com/watch?v=zeYYJguyYVU&list=PLCwwh5NHpa113C-K1M38hqGYHRBKSsA1f&index=2&ab_channel=ChaloSalvadorChaloSalvador)
  
  
 ### Clase 2 - Instalación de Laravel (2020-11-18)
