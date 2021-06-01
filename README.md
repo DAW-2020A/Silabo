@@ -47,7 +47,7 @@ Cada semana se deberán subir los avances de los videos según se especifique en
   * [Encuesta de inicio de curso](https://forms.office.com/Pages/ResponsePage.aspx?id=ak4qaH-nWEmjrJ4mbRiqN173BU_p6khOitbGQ_4-nytUMVVZRkNDRVhCWEVQMTBDRUxPRTI3OTFDSS4u)
   * Verificar instalaciones de XAMPP, PHPStorm.
   * [Videos de LARAVEL API REST](https://www.youtube.com/playlist?list=PLCwwh5NHpa113C-K1M38hqGYHRBKSsA1f)
-  * [Documento guía de LARAVEL API REST](https://epnecuador-my.sharepoint.com/:b:/g/personal/edwin_salvador_epn_edu_ec/EQxcHr7IQAxLjUWsv01xKZUBWgR6fkgy5p9Q-LpCkYcx3w?e=dEXWLN)
+  * [Documento guía de LARAVEL API REST](https://grupomenta.com/laravel-api-creation/)
   * [Grabaciones clases](https://epnecuador-my.sharepoint.com/:f:/g/personal/edwin_salvador_epn_edu_ec/Emw67FvdGTVKoiBvWEfOv48B2-a8k_VOtPIWjJrtmSf3Fg?e=ZxHpUr)
   * Ideas para implementación de proyecto de curso
   * Formación de grupos
