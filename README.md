@@ -66,7 +66,8 @@ Cada semana se deberán subir los avances de los videos según se especifique en
     * [2. Instalación de Laravel](https://www.youtube.com/watch?v=zeYYJguyYVU&list=PLCwwh5NHpa113C-K1M38hqGYHRBKSsA1f&index=2&ab_channel=ChaloSalvadorChaloSalvador)
  
  
-### Clase 2 - Instalación de Laravel (2020-11-18)
+### Clase 2 - Instalación de Laravel (2021-06-02)
+  * [Ideas de proyectos y grupos](https://epnecuador-my.sharepoint.com/:x:/g/personal/edwin_salvador_epn_edu_ec/EUDyW5wlUslOu1dsfhixligB-nGw4shSJTqwVwKTXfOd0Q?e=ycSt1W)
   * Conveciones API:
     * https://www.restapitutorial.com/lessons/restfulresourcenaming.html
     * https://restfulapi.net/resource-naming/
