@@ -74,6 +74,16 @@ Cada semana se deberán subir los avances de los videos según se especifique en
     
   * Trabajo en avances de videos
   * Trabajo en avances de proyectos grupales
+
+  * ### Deber
+    * Tema o nombre
+    * Descripción corta
+    * Objetivos
+    * Definición de los usuarios (https://www.hubspot.com/make-my-persona)
+    * Lista de funcionalidades
+    * Generar un diagrama de flujo
+    * Diagrama de Entidad Relación
+    
   * ### Lecturas
     * [Guía de Git](https://rogerdudler.github.io/git-guide/index.es.html)
     * [Ramas en Git](https://nvie.com/posts/a-successful-git-branching-model/)
