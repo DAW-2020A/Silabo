@@ -72,13 +72,11 @@ Cada semana se deberán subir los avances de los videos según se especifique en
     * https://www.restapitutorial.com/lessons/restfulresourcenaming.html
     * https://restfulapi.net/resource-naming/
     
-  * Ejemplo creación proyecto: https://github.com/DAW-ESFOT/blog
   * Trabajo en avances de videos
   * Trabajo en avances de proyectos grupales
   * ### Lecturas
     * [Guía de Git](https://rogerdudler.github.io/git-guide/index.es.html)
     * [Ramas en Git](https://nvie.com/posts/a-successful-git-branching-model/)
-
 
   
 ### Clase 3 - API, REST, Laravel (2020-11-24)
