@@ -98,6 +98,7 @@ Cada semana se deberán subir los avances de los videos según se especifique en
   * ¿Qué es API RESTful?
   * [Crear repositorios grupales](https://classroom.github.com/g/b1uC-NS5)
   * Diseñar modelos de bases de datos
+  * Plugin Prettier PHP (https://github.com/prettier/plugin-php)
   
   * ### Videos
     * [3. Estructura de directorios y configuración inicial](https://www.loom.com/share/1c350324b93d408eabba82c5fb852256)
