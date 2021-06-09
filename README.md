@@ -114,7 +114,7 @@ Cada semana se deberán subir los avances de los videos según se especifique en
   * Trabajo en avances de proyectos grupales
   
   
-### Clase 5 - Modelos y migraciones (2020-12-01)
+### Clase 5 - Modelos y migraciones (2020-06-15)
   * ¿Dudas sobre modelos y migraciones en Laravel?
   * ¿Qué es un modelo?
   * ¿Qué son las migraciones?
@@ -135,12 +135,12 @@ Cada semana se deberán subir los avances de los videos según se especifique en
     * [The Differences Between a Junior, Mid-Level, and Senior Developer](https://medium.com/better-programming/the-differences-between-a-junior-mid-level-and-senior-developer-bb2cb2eb000d)
 
 
-### Clase 6 - Modelos y migraciones (2020-12-02)
+### Clase 6 - Modelos y migraciones (2020-06-16)
   * Trabajo en avances de videos
   * Trabajo en avances de proyectos grupales
 
 
-### Clase 7 - Seeding de la BDD, Rutas y Controladores (2020-12-08)
+### Clase 7 - Seeding de la BDD, Rutas y Controladores (2020-06-22)
   * ¿Dudas sobre seeding de la BDD, rutas y controladores?
   * ¿Para qué sirve el seeding de la BDD?
   * ¿Cómo se deben estrucutras las rutas de la API?
@@ -161,12 +161,12 @@ Cada semana se deberán subir los avances de los videos según se especifique en
     * [UI Kits for any day use](https://dev.to/tngeene/ui-kits-for-any-day-use-215e?fbclid=IwAR3qu0UPTxJJ8brHw-b5pPUg8zSKcXP4OcO6WyMkxt-sXa3A6HPHe7EV3z0)
     
   
-### Clase 8 - Seeding de la BDD, Rutas y Controladores (2020-12-09)  
+### Clase 8 - Seeding de la BDD, Rutas y Controladores (2020-06-23)  
   * Trabajo en avances de videos
   * Trabajo en avances de proyectos grupales
 
   
-### Clase 9 - Autenticación de usuarios (2020-12-15)
+### Clase 9 - Autenticación de usuarios (2020-06-29)
   * ¿Dudas sobre Autenticación de usuarios con JWT?
   * ¿Qué es la autenticación de usuarios?
   * ¿Qué es JWT?
@@ -180,7 +180,7 @@ Cada semana se deberán subir los avances de los videos según se especifique en
     * [13. Relaciones - Muchos a Muchos](https://www.loom.com/share/e28bb083c22f49fa8bc415dac4a60b36)
 
 
-### Clase 10 - Autenticación de usuarios (2020-12-16)
+### Clase 10 - Autenticación de usuarios (2020-06-30)
   * Trabajo en avances de videos
   * Trabajo en avances de proyectos grupales
   * Material de diseño
