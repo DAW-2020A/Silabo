@@ -106,7 +106,7 @@ Cada semana se deberán subir los avances de los videos según se especifique en
     * [5. Modelo y migraciones Article](https://www.loom.com/share/593db733b30f4f0da3bca5238c360140)
     
   
-### Clase 4 - API, REST, Laravel (2020-11-25)
+### Clase 4 - API, REST, Laravel (2021-06-09)
   * [9 Best Practices for REST API Design](https://medium.com/weekly-webtips/9-best-practices-for-rest-api-design-7fb0b462099b)
   * [Métodos HTTP](https://developer.mozilla.org/en-US/docs/Web/HTTP/Methods)
   * [HTTP status codes](https://developer.mozilla.org/en-US/docs/Web/HTTP/Status)
